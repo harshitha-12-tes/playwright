@@ -1,0 +1,8 @@
+{"valid":[{"url":"https://practicetestautomation.com/practice-test-login/","un":"student","pw":"Password123"},
+{"url":"https://practicetestautomation.com/practice-test-login/","un":"student","pw":"Password123"},
+{"url":"https://practicetestautomation.com/practice-test-login/","un":"student","pw":"Password123"},
+{"url":"https://practicetestautomation.com/practice-test-login/","un":"student","pw":"Password123"}],
+"invalid":[{"url":"https://practicetestautomation.com/practice-test-login/","un":"stude","pw":"Password123"},
+{"url":"https://practicetestautomation.com/practice-test-login/","un":"student","pw":"Passwrd123"},
+{"url":"https://practicetestautomation.com/practice-test-login/","un":"stuent","pw":"Password123"},
+{"url":"https://practicetestautomation.com/practice-test-login/","un":"student","pw":"Passrd123"}]}

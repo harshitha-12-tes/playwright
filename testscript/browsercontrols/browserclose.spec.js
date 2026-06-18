@@ -1,0 +1,1 @@
+//in playwright it has default browser(page / tab) close option
